@@ -14,7 +14,7 @@
   </parent>
   <groupId>springframework</groupId>
   <artifactId>sf-pet-clinic</artifactId>
-  <version>springframework:sf-pet-clinic 0.0.3-SNAPSHOT</version>
+  <version>springframework:sf-pet-clinic-0.0.4</version>
   <name>sf-pet-clinic</name>
   <description>SF Pet Clinic Project</description>
   <properties>
@@ -43,7 +43,7 @@
 
   <scm>
     <developerConnection>scm:git:git@github.com:antRogoza/sf-pet-clinic.git</developerConnection>
-    <tag>sf-pet-clinic-springframework:sf-pet-clinic 0.0.3</tag>
+    <tag>sf-pet-clinic-springframework:sf-pet-clinic-0.0.4</tag>
   </scm>
 
 </project>
