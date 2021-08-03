@@ -1,6 +1,6 @@
 package sfpetclinic.model;
 
-public class Pearson {
+public class Pearson extends BaseEntity {
 
   private String firstName;
   private String lastName;
