@@ -3,7 +3,7 @@
   <parent>
     <artifactId>sf-pet-clinic</artifactId>
     <groupId>springframework</groupId>
-    <version>2-SNAPSHOT</version>
+    <version>springframework:sf-pet-clinic 0.0.2</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
