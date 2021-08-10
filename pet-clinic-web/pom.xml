@@ -42,6 +42,13 @@
       <artifactId>spring-boot-starter-test</artifactId>
       <scope>test</scope>
     </dependency>
+
+    <dependency>
+      <groupId>springframework</groupId>
+      <artifactId>pet-clinic-data</artifactId>
+      <version>0.0.5-SNAPSHOT</version>
+    </dependency>
+
   </dependencies>
 
 </project>
